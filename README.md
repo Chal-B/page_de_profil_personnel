@@ -9,7 +9,6 @@
 [![Akieni Academy](https://img.shields.io/badge/Akieni-Academy-2563eb?style=flat-square)](https://akieni.com)
 [![W3C](https://img.shields.io/badge/W3C-Validé-22c55e?style=flat-square)](https://validator.w3.org/)
 
-[![Licence](https://img.shields.io/badge/licence-MIT-blue.svg)](#-licence)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](#)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
 [![Stars](https://img.shields.io/github/stars/Chal-B/page_de_profil_personnel?style=social)](https://github.com/Chal-B/page_de_profil_personnel)
@@ -31,7 +30,6 @@
 - [Technologies utilisées](#-technologies-utilisées)
 - [Tests](#-tests)
 - [Contribuer](#-contribuer)
-- [Licence](#-licence)
 - [Contact](#-contact)
 
 ---
@@ -91,15 +89,6 @@ page_de_profil_personnel/
 
 - [Validateur HTML W3C](https://validator.w3.org/#validate_by_input)
 
-## 
-1. 2. Crée ta branche (`git checkout -b feature/ma-fonctionnalite`)
-3. Commit tes changements (`git commit -m 'Ajout de ma fonctionnalité'`)
-4. Push vers la branche (`git push origin feature/ma-fonctionnalite`)
-5. Ouvre une Pull Request
-
-## 📄 Licence
-
-Distribué sous licence MIT.
 
 ## 📬 Contact
 
